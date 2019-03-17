@@ -1,13 +1,13 @@
 # Android Layout
 	安卓布局练习(LinearLayout,ConstraintLayout,TableLayout)
 > **1.LinearLayout**
-	Run on phone.
+Run on phone.
 
->![LinearLayout](https://github.com/nomenofear/Android/raw/master/img/LinearLayout.png)
+![LinearLayout](https://github.com/nomenofear/Android/raw/master/img/LinearLayout.png)
 
 ~~~xml
 drawable中添加buttonstyle.xml文件来定义button的边框以及button的背景颜色。
-```
+
 <!-- 边框颜色值 -->
 <item>
     <shape>
@@ -24,7 +24,7 @@ drawable中添加buttonstyle.xml文件来定义button的边框以及button的背
         <solid android:color="@android:color/black" />
     </shape>
 </item>
-```
+
 
 ~~~
 
@@ -32,10 +32,10 @@ drawable中添加buttonstyle.xml文件来定义button的边框以及button的背
 
 
 > **2.ConstraintLayout**
-	Run on tablet
+Run on tablet
  ![Constraint](https://github.com/nomenofear/Android/raw/master/img/Constraint.png)
 
 > **3.TableLayout**
-> Run on phone
+Run on phone
 
 ![TableLayout](https://github.com/nomenofear/Android/raw/master/img/TableLayout.png)
