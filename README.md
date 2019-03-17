@@ -2,7 +2,7 @@
 	安卓布局练习(LinearLayout,ConstraintLayout,TableLayout)
 > **1.LinearLayout**
 
-Run on phone.
+	Run on phone.
 ![LinearLayout](https://github.com/nomenofear/Android/raw/master/img/LinearLayout.png)
 
 ~~~xml
@@ -33,10 +33,10 @@ drawable中添加buttonstyle.xml文件来定义button的边框以及button的背
 
 > **2.ConstraintLayout**
 
-Run on tablet
+	Run on tablet
 ![Constraint](https://github.com/nomenofear/Android/raw/master/img/Constraint.png)
 
 > **3.TableLayout**
 
-Run on phone
+	Run on phone
 ![TableLayout](https://github.com/nomenofear/Android/raw/master/img/TableLayout.png)
