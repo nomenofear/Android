@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://www.w3.org/2001/XMLSchema"
+    android:shape="rectangle">
+
+    <size
+        android:height="1dp" />
+
+    <solid android:color="@color/table_divider_color" />
+
+</shape>
