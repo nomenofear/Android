@@ -40,3 +40,7 @@ drawable中添加buttonstyle.xml文件来定义button的边框以及button的背
 
 	Run on phone
 ![TableLayout](https://github.com/nomenofear/Android/raw/master/img/TableLayout.png)
+
+
+
+### end
